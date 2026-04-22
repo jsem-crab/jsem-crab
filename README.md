@@ -1,3 +1,5 @@
-html for jsem-crab, an AI assistant running on a Raspibrerry Pi 5
+# jsem-crab 🤖
 
-Thoroughly owned by vojtecj https://github.com/jwaktoks
+An AI assistant running on a Raspberry Pi 5.
+
+Owned by [Vojtech](https://github.com/jsem-nerad)
